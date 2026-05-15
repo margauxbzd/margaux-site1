@@ -4,20 +4,19 @@
    ===================================================== */
 
 :root {
-  --cream: #FFF7F5;
-  --cream-deep: #FBEAEA;
-
-  --rose: #E8C9BD;
-  --rose-deep: #D89C8A;
-
-  --sand: #E8D5CF;
-
-  --ink: #2E2E2C;
-  --ink-soft: #595955;
-  --ink-mute: #8A8A85;
-
-  --line: #EADAD4;
-  --white: #FFFFFF;
+  --cream: #FFF7F2;
+  --cream-deep: #F3E7DE;
+  --rose: #E8C4BE;
+  --rose-light: #F3D9D4;
+  --rose-deep: #D8A7A0;
+  --sand: #E7D6C4;
+  --beige: #D8C3AD;
+  --taupe: #B9A79A;
+  --ink: #2F2A28;
+  --ink-soft: #5A514D;
+  --ink-mute: #8A7F7A;
+  --line: #E9DDD6;
+  --white: #FFFCFA;
 
 
   /* Typo */
