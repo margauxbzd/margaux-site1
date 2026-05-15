@@ -4,18 +4,18 @@
    ===================================================== */
 
 :root {
-  --cream: #FFF7F2;
-  --cream-deep: #F3E7DE;
-  --rose: #E8C4BE;
-  --rose-light: #F3D9D4;
-  --rose-deep: #D8A7A0;
-  --sand: #E7D6C4;
-  --beige: #D8C3AD;
-  --taupe: #B9A79A;
-  --ink: #2F2A28;
-  --ink-soft: #5A514D;
+ --cream: #FFF6EE;
+  --cream-deep: #F2E3D6;
+  --rose: #E6B8A2;
+  --rose-light: #F2D2C4;
+  --rose-deep: #CFA18E;
+  --sand: #E6D2BE;
+  --beige: #D6C2AB;
+  --taupe: #B8A391;
+  --ink: #2E2926;
+  --ink-soft: #5A4F4A;
   --ink-mute: #8A7F7A;
-  --line: #E9DDD6;
+  --line: #E9DED4;
   --white: #FFFCFA;
 
 
