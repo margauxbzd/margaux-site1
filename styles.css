@@ -1,6 +1,6 @@
 /* =====================================================
    MARGAUX BEZARD — PSYCHOLOGUE
-   Design : douceur sage + crème + rose poudré
+   Design : douceur crème + rose poudré
    ===================================================== */
 
 :root {
@@ -483,7 +483,7 @@ body {
 .tarif-currency {
   font-size: 28px;
   font-weight: 400;
-  color: var(--sage-deep);
+  color: var(--rose);
   margin-top: 10px;
 }
 .tarif-note {
@@ -520,7 +520,7 @@ body {
   position: absolute;
   top: -100px; right: -100px;
   width: 360px; height: 360px;
-  background: var(--sage-deep);
+  background: var(--rose);
   border-radius: 50%;
   opacity: 0.35;
 }
@@ -557,7 +557,7 @@ body {
 }
 .cta-box .btn-primary:hover {
   background: var(--white);
-  color: var(--sage-deep);
+  color: var(--rose-deep);
 }
 
 /* FOOTER */
@@ -600,7 +600,7 @@ body {
   padding: 4px 0;
   transition: color 0.2s;
 }
-.footer-col a:hover { color: var(--sage-deep); }
+.footer-col a:hover { color: var(--rose-deep); }
 .footer-bottom {
   padding-top: 28px;
   border-top: 1px solid var(--line);
