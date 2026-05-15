@@ -4,20 +4,21 @@
    ===================================================== */
 
 :root {
-  /* Palette */
-  --cream: #F5EFE6;
-  --cream-deep: #ECE3D4;
-  --rose: #A8B5A0;
-  --rose: #7E8E76;
-  --rose: #C4D2B5;
+  --cream: #FFF7F5;
+  --cream-deep: #FBEAEA;
+
   --rose: #E8C9BD;
-  --rose-deep: #D4A89A;
-  --sand: #D9C9B0;
+  --rose-deep: #D89C8A;
+
+  --sand: #E8D5CF;
+
   --ink: #2E2E2C;
   --ink-soft: #595955;
   --ink-mute: #8A8A85;
-  --line: #E0D7C7;
-  --white: #FBF8F2;
+
+  --line: #EADAD4;
+  --white: #FFFFFF;
+
 
   /* Typo */
   --font-display: 'Fraunces', 'Cormorant Garamond', Georgia, serif;
