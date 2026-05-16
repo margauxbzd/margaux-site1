@@ -366,6 +366,12 @@
       <p>© <span id="year">2026</span> Margaux Bézard — Psychologue au Pays Basque. Tous droits réservés.</p>
     </div>
   </footer>
-
+<script>
+document.querySelector('a[href="#contact"]').addEventListener('click', function(e) {
+  e.preventDefault();
+  document.getElementById('contact').scrollIntoView({ behavior: 'smooth' });
+});
+</script>
 </body>
+
 </html>
