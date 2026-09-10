@@ -428,9 +428,9 @@ body {
 /* TARIFS */
 .tarifs-grid {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: repeat(3, 1fr);
   gap: 24px;
-  max-width: 820px;
+  max-width: 1100px;
   margin: 0 auto;
 }
 .tarif-card {
@@ -456,6 +456,8 @@ body {
   margin-bottom: 22px;
 }
 .tarif-card:nth-child(2) .tarif-icon { background: var(--sage-light); color: var(--sage-deep); }
+.tarif-card:nth-child(3) .tarif-icon { background: var(--rose); color: var(--ink); }
+
 .tarif-title {
   font-family: var(--font-display);
   font-weight: 400;
@@ -500,7 +502,7 @@ body {
   line-height: 1.6;
 }
 
-@media (max-width: 680px) {
+@media (max-width: 900px) {
   .tarifs-grid { grid-template-columns: 1fr; }
 }
 
